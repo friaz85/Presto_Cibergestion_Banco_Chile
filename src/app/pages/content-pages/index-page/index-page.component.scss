@@ -1,0 +1,61 @@
+.bg {
+    background-image: url('../../../../assets/img/banner/ciber-presto-Back.png') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.text-blue {
+  color: #102B7A;
+}
+
+.col-right {
+  background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.input-presto {
+  -webkit-box-shadow: 0px 0px 16px 7px rgba(59,99,237,0.29);
+-moz-box-shadow: 0px 0px 16px 7px rgba(59,99,237,0.29);
+box-shadow: 0px 0px 16px 7px rgba(59,99,237,0.29);
+}
+
+.input-group-text {
+  color: #3B63ED;
+}
+
+.img-footer {
+  width: 15%;
+}
+
+.img-footer-legales {
+  width: 100%;
+}
+
+.h-90 {
+  height: 100vh;
+}
+
+.row-container {
+  padding-bottom: 2.5rem;
+}
+
+.footer {
+  position: absolute !important;
+  top: 100%;
+  border-top: 0px !important;
+}
+
+@media (min-width: 768px) {
+  .img-footer {
+    width: 15%;
+  }
+  
+  .img-footer-legales {
+    width: 100%;
+  }
+}
+  
